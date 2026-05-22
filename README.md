@@ -30,10 +30,4 @@
 
 - 暂时没有呢，都是一些愚蠢的小代码
 ---
-
-###  GitHub 统计数据
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Jeffrey-Young&layout=compact&theme=radical)
-
----
 感谢你的访问！如果我的项目对你有帮助，别忘了点个 Star ！（如果我有上传项目的前提下）
