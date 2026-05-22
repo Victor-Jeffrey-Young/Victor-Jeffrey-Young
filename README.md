@@ -1,7 +1,5 @@
 ### Hi there, I'm Victor
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=Victor-Jeffrey-Young&show_icons=true&theme=radical)](https://github.com/Victor-Jeffrey-Young)
-
 ---
 
 ### ‍ 关于我
